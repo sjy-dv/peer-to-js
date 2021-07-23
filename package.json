@@ -1,0 +1,12 @@
+{
+    "name": "peer_chat",
+    "main": "app.js",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "nodemon --exec app.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "socket.io": "^4.1.3"
+    }
+}
